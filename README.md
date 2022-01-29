@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/RaelReis">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=RaelReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaelReis&layout=compact&langs_count=5&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RaelReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaelReis&layout=compact&langs_count=5&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
